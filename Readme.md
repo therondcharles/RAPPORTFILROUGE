@@ -21,4 +21,4 @@ Dans cette section reside l'architecture des dossiers.
  * Exploration
  * Paircoding
  * Production
- * foncitonCommune.py ( fonction utile à chacun )
+ * fonctionCommune.py ( fonction utile à chacun )
