@@ -16,7 +16,7 @@ Les branches sont donc:
 | cth | Charles |
 
 
-## Arboraissance:
+## Arborescence:
 Dans cette section reside l'architecture des dossiers.
  * Exploration
  * Paircoding
