@@ -16,8 +16,9 @@ Les branches sont donc:
 | cth | Charles |
 
 
-## Arborescence:
+## Arboressance:
 Dans cette section reside l'architecture des dossiers.
  * Exploration
  * Paircoding
  * Production
+ * foncitonCommune.py ( fonction utile à chacun )
