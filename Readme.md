@@ -22,3 +22,8 @@ Dans cette section reside l'architecture des dossiers.
  * Paircoding
  * Production
  * fonctionCommune.py ( fonction utile à chacun )
+
+## Gestion de code
+### master vers branche utilisateur
+
+### branche vers master
