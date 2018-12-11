@@ -1,0 +1,14 @@
+def git_merge_conbine(mabranche,filesunion):
+    print("git checkout master")
+    print("git merge",mabranche)
+    for file in filesunion:
+        print("git show :1:"+str(file),">",str(file)+".master")
+        print("git show :2:"+str(file),">",str(file)+".ours")
+        print("git show :3:"+str(file),">",str(file)+"."+str(mabranche))
+        print("mv", str(file)+".ours",file)
+        print("git merge-file --union",file,str(file)+".master",str(file)+"."+str(mabranche))
+        print("rm",str(file)+".master",str(file)+"."+str(mabranche))
+        print("git", file)
+    return
+
+git_merge_conbine("cth",["fonctionCommune.py"])
