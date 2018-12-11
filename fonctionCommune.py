@@ -1,5 +1,4 @@
 print("je suis fonction1")
-print("insetion code cth")
+print("insertion ica")
 print( "je suis le master")
-print( "je suis ica")
-print(" ajout de code cth")
+print("ajout ica")
