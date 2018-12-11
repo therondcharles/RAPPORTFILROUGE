@@ -1,3 +1,5 @@
 print("je suis fonction1")
-
-print("je suis fonction1 cth")
+print("insetion code cth")
+print( "je suis le master")
+print( "je suis ica")
+print(" ajout de code cth")
