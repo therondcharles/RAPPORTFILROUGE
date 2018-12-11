@@ -1,4 +1,4 @@
-def git_merge_conbine(mabranche,filesunion,sub):
+def git_merge_conbine(mabranche,filesunion):
     print("git checkout master")
     print("git merge",mabranche)
     for file in filesunion:
@@ -7,11 +7,10 @@ def git_merge_conbine(mabranche,filesunion,sub):
         print("git show :3:"+str(file),">",str(file)+"."+str(mabranche))
         print("mv", str(file)+".ours",file)
         print("git merge-file --union",file,str(file)+".base",str(file)+"."+str(mabranche))
-        if sub:
-            print("rm",str(file)+".base",str(file)+"."+str(mabranche))
+        print("rm",str(file)+".base",str(file)+"."+str(mabranche))
         print("git add", file)
     print('git commit -m"merge',mabranche,'"')
     return
 
-git_merge_conbine("ica",["fonctionCommune.py"],True)
-git_merge_conbine("master",["fonctionCommune.py"],False)
+git_merge_conbine("kpe",["fonctionCommune.py"])
+git_merge_conbine("master",["fonctionCommune.py"])
