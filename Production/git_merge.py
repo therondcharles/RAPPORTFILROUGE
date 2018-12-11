@@ -1,4 +1,4 @@
-def git_merge_conbine(mabranche,filesunion,delet=True):
+def git_merge_branch_to_master(mabranche, filesunion, delet=True):
     print("-------------------------------------------------------------------------------------------------")
     print("")
     print("git checkout master")
@@ -24,5 +24,5 @@ def git_merge_conbine(mabranche,filesunion,delet=True):
     print("git push origin master")
     return
 
-git_merge_conbine("ica",["fonctionCommune.py"])
-git_merge_conbine("cth",["fonctionCommune.py"])
+git_merge_branch_to_master("ica", ["fonctionCommune.py"])
+git_merge_branch_to_master("cth", ["fonctionCommune.py"])
