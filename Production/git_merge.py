@@ -8,7 +8,8 @@ def git_merge_conbine(mabranche,filesunion):
         print("mv", str(file)+".ours",file)
         print("git merge-file --union",file,str(file)+".master",str(file)+"."+str(mabranche))
         print("rm",str(file)+".master",str(file)+"."+str(mabranche))
-        print("git", file)
+        print("git add", file)
+    print('git commit -m"merge',mabranche,'"')
     return
 
-git_merge_conbine("cth",["fonctionCommune.py"])
+git_merge_conbine("ica",["fonctionCommune.py"])
