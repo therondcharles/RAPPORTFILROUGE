@@ -12,5 +12,5 @@ def git_merge_conbine(mabranche,filesunion):
     print('git commit -m"merge',mabranche,'"')
     return
 
-git_merge_conbine("kpe",["fonctionCommune.py"])
-git_merge_conbine("master",["fonctionCommune.py"])
+git_merge_conbine("ica",["fonctionCommune.py"])
+git_merge_conbine("cth",["fonctionCommune.py"])
