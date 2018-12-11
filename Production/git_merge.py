@@ -1,4 +1,6 @@
-def git_merge_conbine(mabranche,filesunion,delet):
+def git_merge_conbine(mabranche,filesunion,delet=True):
+    print("-------------------------------------------------------------------------------------------------")
+    print("")
     print("git checkout master")
     print("git merge",mabranche)
     print("")
