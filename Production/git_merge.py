@@ -14,15 +14,12 @@ def git_merge_union(bfrom, bto, filesunion, delet=True):
         print("mv",str(file)+"."+str(bfrom) ,file)
         print("git merge-file --union",file,str(file)+".base",str(file)+".ours")
         if delet:
-            print("rm",str(file)+".base",str(file)+"."+str(bfrom))
+            print("rm",str(file)+".base",str(file)+".ours")
         print("git add", file)
-    print('git commit -m"merge',bfrom,'"')
+    print('git commit -m " merge',bfrom,'"')
     print("")
     print("")
     print("")
     print("")
     print("git push origin ",bto)
     return
-
-git_merge_union("ica","maste", ["fonctionCommune.py"])
-git_merge_union("master","cth", ["fonctionCommune.py"])
