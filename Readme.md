@@ -64,24 +64,14 @@ git_merge_union("master","cth",["fonctionCommune.py"])
 ### branche vers master
 
 git_merge_union("cth","master",["fonctionCommune.py"])
- > git checkout master
-
- > git merge cth
-
- > git show :1:fonctionCommune.py > fonctionCommune.py.base
-
- > git show :2:fonctionCommune.py > fonctionCommune.py.ours
-
- > git show :3:fonctionCommune.py > fonctionCommune.py.cth
-
- > mv fonctionCommune.py.cth fonctionCommune.py
-
- > git merge-file --union fonctionCommune.py fonctionCommune.py.base fonctionCommune.py.ours
-
- > rm fonctionCommune.py.base fonctionCommune.py.ours
-
- > git add fonctionCommune.py
-
- > git commit -m " merge cth "
-
- > git push origin  master
+ > ```git checkout master
+ git merge cth
+ git show :1:fonctionCommune.py > fonctionCommune.py.base
+ git show :2:fonctionCommune.py > fonctionCommune.py.ours
+ git show :3:fonctionCommune.py > fonctionCommune.py.cth
+ mv fonctionCommune.py.cth fonctionCommune.py
+ git merge-file --union fonctionCommune.py fonctionCommune.py.base fonctionCommune.py.ours
+ rm fonctionCommune.py.base fonctionCommune.py.ours
+ git add fonctionCommune.py
+ git commit -m " merge cth "
+ git push origin  master```
