@@ -11,8 +11,8 @@ def git_merge_union(bfrom, bto, filesunion, delet=True):
         print("git show :1:"+str(file),">",str(file)+".base")
         print("git show :2:"+str(file),">",str(file)+".ours")
         print("git show :3:"+str(file),">",str(file)+"."+str(bfrom))
-        print("mv", str(file)+".ours",file)
-        print("git merge-file --union",file,str(file)+"."+str(bfrom),str(file)+".base")
+        print("mv",str(file)+"."+str(bfrom) ,file)
+        print("git merge-file --union",file,str(file)+".base",str(file)+".ours")
         if delet:
             print("rm",str(file)+".base",str(file)+"."+str(bfrom))
         print("git add", file)
