@@ -19,7 +19,11 @@ Les branches sont donc:
 ## Arborescence:
 Dans cette section reside l'architecture des dossiers.
  * Exploration
+   * Use_Case_MeteoandElectric_Power.ipynb ( Premiere exploration sur des
+   données externes )
  * Paircoding
+   * Use_Case_MeteoandElectric_Power.ipynb ( temporaire pour la création du
+   dossier )
  * Production
    * git_merge.py ( gestion des merges dans le cas des unions )
  * fonctionCommune.py ( fonction utile à chacun )
@@ -34,7 +38,7 @@ Afin de ne pas douter du fonctionnement de git, voila quelques ressources utiles
 
 [Compréhension du merge union](https://stackoverflow.com/questions/46182123/how-to-resolve-a-git-conflict-by-keeping-all-additions-from-both-sides)
 
-Les cas problématique sont les cas d'union qui sont gerés par la fonction ```git_merge_union()```. La fonction retourne les lignes de commandes à executer pour
+Les cas problématiques sont les cas d'union qui sont gerés par la fonction ```git_merge_union()```. La fonction retourne les lignes de commandes à executer pour
 selon le sens de merge.
 ### master vers branche utilisateur
 
