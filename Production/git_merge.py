@@ -24,5 +24,5 @@ def git_merge_union(bfrom, bto, filesunion, delet=True):
     print("git push origin ",bto)
     return
 
-git_merge_union("ica", ["fonctionCommune.py"])
-git_merge_union("cth", ["fonctionCommune.py"])
+git_merge_union("ica","maste", ["fonctionCommune.py"])
+git_merge_union("master","cth", ["fonctionCommune.py"])
