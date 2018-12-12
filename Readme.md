@@ -39,6 +39,7 @@ selon le sens de merge
 ### master vers branche utilisateur
 
 git_merge_union("master","cth",["fonctionCommune.py"])
+
  ```git checkout cth
  git merge master
  git show :1:fonctionCommune.py > fonctionCommune.py.base
@@ -51,9 +52,12 @@ git_merge_union("master","cth",["fonctionCommune.py"])
  git commit -m " merge master "
  git push origin  cth```
 
+
+
 ### branche vers master
 
 git_merge_union("cth","master",["fonctionCommune.py"])
+
  ```git checkout master
  git merge cth
  git show :1:fonctionCommune.py > fonctionCommune.py.base
