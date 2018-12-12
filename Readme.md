@@ -64,7 +64,7 @@ git_merge_union("master","cth",["fonctionCommune.py"])
 ### branche vers master
 
 git_merge_union("cth","master",["fonctionCommune.py"])
- > ```git checkout master
+ ```git checkout master
  git merge cth
  git show :1:fonctionCommune.py > fonctionCommune.py.base
  git show :2:fonctionCommune.py > fonctionCommune.py.ours
