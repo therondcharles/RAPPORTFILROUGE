@@ -26,7 +26,7 @@ Dans cette section reside l'architecture des dossiers.
    dossier )
  * Production
    * git_merge.py ( gestion des merges dans le cas des unions )
- * fonctionCommune.py ( fonction utile à chacun )
+   * fonctionCommune.py ( fonction utile à chacun )
 
 ## Gestion de code
 
