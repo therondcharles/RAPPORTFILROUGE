@@ -1,0 +1,116 @@
+
+\chapter{Détection d'anomalie}
+
+\section{Présentation générale des différentes méthodes}
+\subsection{Types d'anomalies}
+La détection d'anomalie dans les données est une méthode consistant à trouver des motifs non 
+usuels dans la donnée. Ces anomalies sont différentes du bruit existant dans les données.
+Il existe différent types d'anomalies:
+\begin{enumerate}
+\item Les anomalies ponctuelles (un point dont la valeur excède la gamme de valeur de la distribution des données)
+\item Les anomalies contextuelles (des valeurs non usuels pour le contexte donné)
+\item Les anomalies collectives (une gamme de valeur non usuels)
+\end{enumerate}
+
+\paragraph{}
+Dans le cas où on suppose que les données sont paramétriques, on suppose
+que les données normales suivent une loi gaussienne.
+Les anomalies sont les données qui ne suivent pas cette distribution.
+
+L'anormalité est caractérisée par la distance de Mahalanobis
+\begin{equation}
+d(x,y) = \sqrt{(x-y)^\top \Sigma (x-y)} 
+\end{equation}
+
+
+\paragraph{}
+Si on ne suppose rien sur la loi que suit les données normales, d'autres méthodes sont utilisées comme 
+
+\begin{enumerate}
+\item Density based
+\item Distance based
+\end{enumerate}
+
+\subsubsection{Random forest}
+On définira une notion de similarité et de distance entre les données .
+
+La similarité entre les 2 observation est basé sur le nombre de fois les 2 observations
+correspondent à la même feuille. 
+\begin{equation}
+prox(n,k)= \frac{similarity}{number tree}
+\end{equation}
+Les anomalies correspondent aux observations qui ont une petite pro par rapport aux autres observations 
+
+%\subsubsection{Contextual anomalies}
+\subsection{Isolation Forest}
+Un arbre est construit pour détecter l'anomalie
+
+
+
+
+\subsection{LOF (Local Outlier Factor)}
+Identifier la densité local de chaque point et la comparer avec les voisins.
+The local reachibility factor density is computed as
+
+\begin{equation}
+density  = ..
+\end{equation}
+\paragraph{}
+
+
+\subsection{1 class SVM}
+
+
+\subsection{L'algorithme du LSTM}
+
+\subsection{Extraction des coefficients des ondelettes à utiliser comme feature}
+Les données peuvent être projetés dans une autre base pour pouvoir détecter le comportement normal et anormal.
+Dans le cas des séries temporelles, on utilise souvent une base composée des coefficients d'ondelettes.
+
+%Il existe une littérature assez conséquente sur la détection d'anomalie pour les maladies cardiaques. Dans ce domaine, on utili
+
+
+\begin{thebibliography}{1}
+\bibitem{Breiman}
+BREIMAN, Leo. 
+\emph{Random forests.}
+Machine learning, 2001, vol. 45, no 1, p. 5-32.
+
+\bibitem{BreunigM}
+	 BREUNIG, Markus M., KRIEGEL, Hans-Peter, NG, Raymond T., et al. 
+	 \emph{LOF: identifying density-based local outliers.} 
+	 In : ACM sigmod record. ACM, 2000. p. 93-104.
+	  
+\bibitem{ChandolaV}	  
+	  CHANDOLA, Varun, BANERJEE, Arindam, et KUMAR, Vipin. 
+	  \emph{Anomaly detection: A survey.}
+	   ACM computing surveys (CSUR), 2009, vol. 41, no 3, p. 15.
+	   
+\bibitem{MalhotraP}	  
+	MALHOTRA, Pankaj, VIG, Lovekesh, SHROFF, Gautam, et al.
+	\emph{Long short term memory networks for anomaly detection in time series.} 
+	In : Proceedings. Presses universitaires de Louvain, 2015. p. 89.
+	   
+\bibitem{KeohgE}    
+   KEOGH, Eamonn, LONARDI, Stefano, et CHIU, Bill'Yuan-chi'. 
+   \emph{Finding surprising patterns in a time series database in linear time and space.} In : Proceedings of the eighth ACM SIGKDD international conference on Knowledge discovery and data mining. ACM, 2002. p. 550-556.
+	   
+\bibitem{LiZ} 	
+Li, Z., Li, Z., Yu, N., Wen, S. 	   
+	   \emph{Locality-Based Visual Outlier Detection Algorithm for Time Series}
+	   Security and Communication Networks, 2017.  
+\bibitem{ChenC} 	   
+	Chen, C., Liu, L. M. (1993).
+\emph{Joint estimation of model parameters and outlier effects in time series.}
+Journal of the American Statistical Association, 88(421), 284-297.	   
+
+\bibitem{DingH} 	
+DING, Hui, TRAJCEVSKI, Goce, SCHEUERMANN, Peter, et al. 
+\emph{Querying and mining of time series data: experimental comparison of representations and distance measures.}
+ Proceedings of the VLDB Endowment, 2008, vol. 1, no 2, p. 1542-1552.	
+	
+
+	
+	   
+\end{thebibliography}
+

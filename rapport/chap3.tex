@@ -1,0 +1,100 @@
+
+\chapter{Decomposition en ondelettes}
+
+
+
+\section{Principe}
+\paragraph{}
+Pour le traitement du signal, différentes de méthodes de décomposition existent.
+La plus connue et utilisée, est la transformée de Fourier. Cette dernière permet de filtrer le signal à différentes fréquences temporelles. Elle informe donc sur le contenu fréquentiel du signal.
+\paragraph{}
+Elle possède une limitation majeure dans la connaissance du comportement local d'une fonction.
+Ce défaut a été observé par D.Gabor  ~\cite{}
+Elle n'est donc pas adéquate pour l'étude de signaux dans un régime transitoire.
+\paragraph{}
+La décomposition en ondelettes permet de pallier à ce défaut, elle permet en effet de prendre en compte la variabilité fréquentielle de la fonction. 
+Elle donne une \emph{représentation temps-fréquence d'un signal} ~\cite{JBigot}.
+et permet donc de fournir une localisation temporelle.
+
+Fourier  wavenumber 
+Ondelette  temps et wab
+\subsection{Definition}
+La transformée en ondelettes ~\cite{JBigot} continue d'une fonction $f  \in L^{2}(\R)$ au point $x \in \R $
+et à l'échelle $ s>0 $ est définie par  :
+\begin{equation}
+W_{f}(x,s) = <f,\Psi_{x,s}> = \int^{+\infty}_{- \infty} \frac{1}{\sqrt{s}}f(t)\Psi(\frac{t-x}{s})dt
+\end{equation} 
+Une transformée en ondelettes peut s'écrire sous la forme d'un filtrage par convolution :
+\begin{equation}
+W_{f}(x,s) = f * \psi^{*}_{s}(x)
+\end{equation}
+avec  $\psi^{*}_{s}(x) = \frac{1}{\sqrt{s}} \psi(\frac{-t}{s})$
+
+Inverse transformation
+
+La transformée en ondelette satisfait les propriétés de conservation de l'énergie du signal.
+
+
+
+\paragraph{}
+ondelettes
+
+propriété:
+support compact, orthogonalité, lissante
+\paragraph{}
+Type d'ondelettes
+
+Daubechie
+
+\paragraph{}
+La transformée en ondelette permet de représenter une fonction comme une combinaison linéaire de
+fonctions de bases d'ondelettes.
+
+\paragraph{}
+Les coefficients de la transformée en ondelettes sont calculées par
+
+\section{Méthodologie}
+\subsection{Decomposition}
+
+\subsection{Détection d'anomalie à l'aide des coefficients dans la base en ondelettes}
+Pour détecter les anomalies, on se concentrera sur la projection des données sur la base formée des coefficients d'ondelettes.
+\section{Résultat}
+
+
+\begin{thebibliography}{1}
+\bibitem{StMallat}
+	  Stéphane Mallat,
+	  \emph{A Wavelet Tour of Signal Processing}.
+	  Elsevier, 
+	  1999.
+	  
+\bibitem{JBigot}
+	Jérémie Bigot,
+	\emph{Analyse par ondelettes}
+	Université Paul Sabatier,
+	2009		  
+\bibitem{AGraps}
+	Amara Graps
+	\emph{An Introduction to Wavelets}
+	 IEEE computational science and engineering, 1995, vol. 2, no 2, p. 50-61,
+	 1995.
+\bibitem{Cchui}
+		Charles K Chui
+      	\emph{An Introduction to Wavelets}
+      	 Elsevier, 2016.
+\bibitem{GRama}
+	GENÇAY, Ramazan, SELÇUK, Faruk, et WHITCHER, Brandon J
+	 \emph{An introduction to wavelets and other filtering methods in finance and economics} 			      Elsevier, 2001.
+\bibitem{WojPrz} 
+  WOJTASZCZYK, Przemyslaw. 
+  \emph{A mathematical introduction to wavelets.}
+   Cambridge University Press, 1997.
+\bibitem{GStrang}  
+	STRANG, Gilbert et NGUYEN, Truong.
+	\emph{Wavelets and filter banks.}
+	 SIAM, 1996.
+\bibitem{SMalla92} 	 
+MALLAT, Stephane et HWANG, Wen Liang.
+\emph{Singularity detection and processing with wavelets. IEEE transactions on information theory} X vol. 38, no 2, p. 617-643, 1992.   
+   
+\end{thebibliography}
