@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.14)  7 JAN 2019 06:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.14)  8 JAN 2019 13:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1902,93 +1902,28 @@ Missing character: There is no √ in font nullfont!
 Missing character: There is no © in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no s in font nullfont!
-
-Overfull \hbox (20.0pt too wide) in paragraph at lines 62--62
-[]
- []
-
-
-Overfull \hbox (35.52194pt too wide) in paragraph at lines 62--62
-\OT1/cmr/m/it/10 reprsen-
- []
-
-
-Overfull \hbox (12.01102pt too wide) in paragraph at lines 62--62
-\OT1/cmr/m/it/10 ta-
- []
-
-
-Overfull \hbox (17.12212pt too wide) in paragraph at lines 62--62
-\OT1/cmr/m/it/10 tion
- []
-
-
-Overfull \hbox (19.67766pt too wide) in paragraph at lines 62--62
-\OT1/cmr/m/it/10 mul-
- []
-
-
-Overfull \hbox (14.18321pt too wide) in paragraph at lines 62--62
-\OT1/cmr/m/it/10 tir-
- []
-
-
-Overfull \hbox (12.7777pt too wide) in paragraph at lines 62--62
-\OT1/cmr/m/it/10 so-
- []
-
-
-Overfull \hbox (11.49992pt too wide) in paragraph at lines 62--62
-\OT1/cmr/m/it/10 lu-
- []
-
-
-Overfull \hbox (17.12212pt too wide) in paragraph at lines 62--62
-\OT1/cmr/m/it/10 tion
- []
-
-
-Overfull \hbox (51.11076pt too wide) in paragraph at lines 62--62
-\OT1/cmr/m/it/10 d'ondelettes
- []
-
-
-Overfull \hbox (13.42944pt too wide) detected at line 62
-\OML/cmm/m/it/10 V[]
- []
-
 Missing character: There is no d in font nullfont!
 Missing character: There is no e in font nullfont!
 ! Undefined control sequence.
-l.62 ...espaces ferm√©es $$ V_{m}$$ de $$ L^{2}(\R
-                                                  )$$ o√π
+l.62 ...s d'espaces ferm√©es $V_{m}$ de $ L^{2}(\R
+                                                  )$ o√π
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
-
-
-Overfull \hbox (19.0695pt too wide) detected at line 62
-\OML/cmm/m/it/10 L[]\OT1/cmr/m/n/10 ()
- []
 
 Missing character: There is no o in font nullfont!
 Missing character: There is no √ in font nullfont!
 Missing character: There is no π in font nullfont!
 ! Undefined control sequence.
-l.63 $$ L^{2}(\R
-                )$$ est un espace d'Hilbert de outes les fonctions au carr√©...
+l.63 $L^{2}(\R
+              )$ est un espace d'Hilbert de outes les fonctions au carr√© in...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
-
-
-Overfull \hbox (19.0695pt too wide) detected at line 63
-\OML/cmm/m/it/10 L[]\OT1/cmr/m/n/10 ()
- []
 
 Missing character: There is no e in font nullfont!
 Missing character: There is no s in font nullfont!
@@ -2113,11 +2048,6 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no l in font nullfont!
 Missing character: There is no l in font nullfont!
 Missing character: There is no e in font nullfont!
-
-Overfull \hbox (12.59613pt too wide) detected at line 64
-\OT1/cmr/m/n/10 2[]
- []
-
 Missing character: There is no √ in font nullfont!
 Missing character: There is no © in font nullfont!
 Missing character: There is no c in font nullfont!
@@ -2152,6 +2082,76 @@ Missing character: There is no u in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no . in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 62--65
+[]
+ []
+
+
+Overfull \hbox (35.52194pt too wide) in paragraph at lines 62--65
+\OT1/cmr/m/it/10 reprsen-
+ []
+
+
+Overfull \hbox (12.01102pt too wide) in paragraph at lines 62--65
+\OT1/cmr/m/it/10 ta-
+ []
+
+
+Overfull \hbox (17.12212pt too wide) in paragraph at lines 62--65
+\OT1/cmr/m/it/10 tion
+ []
+
+
+Overfull \hbox (19.67766pt too wide) in paragraph at lines 62--65
+\OT1/cmr/m/it/10 mul-
+ []
+
+
+Overfull \hbox (14.18321pt too wide) in paragraph at lines 62--65
+\OT1/cmr/m/it/10 tir-
+ []
+
+
+Overfull \hbox (12.7777pt too wide) in paragraph at lines 62--65
+\OT1/cmr/m/it/10 so-
+ []
+
+
+Overfull \hbox (11.49992pt too wide) in paragraph at lines 62--65
+\OT1/cmr/m/it/10 lu-
+ []
+
+
+Overfull \hbox (17.12212pt too wide) in paragraph at lines 62--65
+\OT1/cmr/m/it/10 tion
+ []
+
+
+Overfull \hbox (51.11076pt too wide) in paragraph at lines 62--65
+\OT1/cmr/m/it/10 d'ondelettes
+ []
+
+
+Overfull \hbox (13.42944pt too wide) in paragraph at lines 62--65
+\OML/cmm/m/it/10 V[]$
+ []
+
+
+Overfull \hbox (19.0695pt too wide) in paragraph at lines 62--65
+\OML/cmm/m/it/10 L[]\OT1/cmr/m/n/10 ()$
+ []
+
+
+Overfull \hbox (19.0695pt too wide) in paragraph at lines 62--65
+\OML/cmm/m/it/10 L[]\OT1/cmr/m/n/10 ()$
+ []
+
+
+Overfull \hbox (12.59613pt too wide) in paragraph at lines 62--65
+\OT1/cmr/m/n/10 2[]$
+ []
+
 ! Undefined control sequence.
 l.67 \paragraph
                {}
@@ -2356,8 +2356,9 @@ Overfull \hbox (20.0pt too wide) in paragraph at lines 75--77
  []
 
 
-Overfull \hbox (54.72052pt too wide) detected at line 79
-\OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 ) = []
+Overfull \hbox (175.82266pt too wide) detected at line 79
+\OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 ) = [] \OM
+L/cmm/m/it/10 []^^^[] \OT1/cmr/m/n/10 + [] [] \OML/cmm/m/it/10 ^^L[] []
  []
 
 
@@ -2501,16 +2502,6 @@ Overfull \hbox (96.47165pt too wide) detected at line 93
 m/m/it/10 x\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 dx
  []
 
-
-Overfull \hbox (20.0pt too wide) in paragraph at lines 95--95
-[] 
- []
-
-
-Overfull \hbox (27.73103pt too wide) detected at line 95
-\OML/cmm/m/it/10 phi\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 )
- []
-
 Missing character: There is no e in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no t in font nullfont!
@@ -2539,11 +2530,6 @@ Missing character: There is no r in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no t in font nullfont!
-
-Overfull \hbox (20.36577pt too wide) detected at line 96
-\OML/cmm/m/it/10  \OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 )
- []
-
 Missing character: There is no e in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no t in font nullfont!
@@ -2564,6 +2550,16 @@ Missing character: There is no ® in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no . in font nullfont!
+
+Overfull \hbox (47.73103pt too wide) in paragraph at lines 95--97
+[]$\OML/cmm/m/it/10 phi\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 )$
+ []
+
+
+Overfull \hbox (20.36577pt too wide) in paragraph at lines 95--97
+\OML/cmm/m/it/10  \OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 )$
+ []
+
 Missing character: There is no P in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no u in font nullfont!
@@ -2619,7 +2615,12 @@ Missing character: There is no r in font nullfont!
 Missing character: There is no m in font nullfont!
 Missing character: There is no e in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 101--101
+Overfull \hbox (20.0pt too wide) in paragraph at lines 98--99
+[]
+ []
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 102--102
 [] 
  []
 
@@ -2628,12 +2629,12 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no i in font nullfont!
 
-Overfull \hbox (113.11427pt too wide) detected at line 108
+Overfull \hbox (113.11427pt too wide) detected at line 109
 \OML/cmm/m/it/10  \OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 ) = []
  []
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 111--111
+Overfull \hbox (20.0pt too wide) in paragraph at lines 112--112
 [] 
  []
 
@@ -2646,12 +2647,12 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (93.58876pt too wide) detected at line 118
+Overfull \hbox (93.58876pt too wide) detected at line 119
 \OML/cmm/m/it/10 ^^^\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 ) = []
  []
 
 ! Undefined control sequence.
-l.122 \paragraph
+l.123 \paragraph
                 {}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2659,8 +2660,31 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
+Missing character: There is no D in font nullfont!
+Missing character: There is no √ in font nullfont!
+Missing character: There is no © in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
 ! Undefined control sequence.
-l.123 \subsection
+l.125 \subsection
                  {D√©tection d'anomalie √† l'aide des coefficients dans la b...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2845,7 +2869,7 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no . in font nullfont!
 ! Undefined control sequence.
-l.125 \section
+l.127 \section
               {R√©sultat}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2863,7 +2887,7 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no t in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 123--126
+Overfull \hbox (20.0pt too wide) in paragraph at lines 124--128
 []
  []
 
@@ -2874,7 +2898,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.128 \begin{thebibliography}
+l.130 \begin{thebibliography}
                              {1}
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -2882,7 +2906,7 @@ or  <return>  to continue without it.
 
 Missing character: There is no 1 in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 128--129
+Overfull \hbox (20.0pt too wide) in paragraph at lines 130--131
 [] 
  []
 
@@ -2893,7 +2917,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.129 \bibitem{StMallat}
+l.131 \bibitem{StMallat}
                         
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -2901,7 +2925,7 @@ If that doesn't work, type  X <return>  to quit.
 ! Undefined control sequence.
 <argument> \@listctr 
                      
-l.129 \bibitem{StMallat}
+l.131 \bibitem{StMallat}
                         
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2912,7 +2936,7 @@ and I'll forget about whatever was undefined.
 ! You can't use `\relax' after \the.
 <recently read> \c@ 
                     
-l.129 \bibitem{StMallat}
+l.131 \bibitem{StMallat}
                         
 I'm forgetting what you said and using zero instead.
 
@@ -2949,47 +2973,47 @@ Missing character: There is no 9 in font nullfont!
 Missing character: There is no 9 in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (7.43329pt too wide) in paragraph at lines 130--134
+Overfull \hbox (7.43329pt too wide) in paragraph at lines 132--136
 \OT1/cmr/m/it/10 A
  []
 
 
-Overfull \hbox (34.77753pt too wide) in paragraph at lines 130--134
+Overfull \hbox (34.77753pt too wide) in paragraph at lines 132--136
 \OT1/cmr/m/it/10 Wavelet
  []
 
 
-Overfull \hbox (21.08319pt too wide) in paragraph at lines 130--134
+Overfull \hbox (21.08319pt too wide) in paragraph at lines 132--136
 \OT1/cmr/m/it/10 Tour
  []
 
 
-Overfull \hbox (8.17773pt too wide) in paragraph at lines 130--134
+Overfull \hbox (8.17773pt too wide) in paragraph at lines 132--136
 \OT1/cmr/m/it/10 of
  []
 
 
-Overfull \hbox (16.86655pt too wide) in paragraph at lines 130--134
+Overfull \hbox (16.86655pt too wide) in paragraph at lines 132--136
 \OT1/cmr/m/it/10 Sig-
  []
 
 
-Overfull \hbox (13.28882pt too wide) in paragraph at lines 130--134
+Overfull \hbox (13.28882pt too wide) in paragraph at lines 132--136
 \OT1/cmr/m/it/10 nal
  []
 
 
-Overfull \hbox (19.17763pt too wide) in paragraph at lines 130--134
+Overfull \hbox (19.17763pt too wide) in paragraph at lines 132--136
 \OT1/cmr/m/it/10 Pro-
  []
 
 
-Overfull \hbox (20.44427pt too wide) in paragraph at lines 130--134
+Overfull \hbox (20.44427pt too wide) in paragraph at lines 132--136
 \OT1/cmr/m/it/10 cess-
  []
 
 
-Overfull \hbox (13.2888pt too wide) in paragraph at lines 130--134
+Overfull \hbox (13.2888pt too wide) in paragraph at lines 132--136
 \OT1/cmr/m/it/10 ing
  []
 
@@ -3000,7 +3024,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.135 \bibitem{JBigot}
+l.137 \bibitem{JBigot}
                       
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -3008,7 +3032,7 @@ If that doesn't work, type  X <return>  to quit.
 ! Undefined control sequence.
 <argument> \@listctr 
                      
-l.135 \bibitem{JBigot}
+l.137 \bibitem{JBigot}
                       
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3019,7 +3043,7 @@ and I'll forget about whatever was undefined.
 ! You can't use `\relax' after \the.
 <recently read> \c@ 
                     
-l.135 \bibitem{JBigot}
+l.137 \bibitem{JBigot}
                       
 I'm forgetting what you said and using zero instead.
 
@@ -3068,27 +3092,27 @@ Missing character: There is no 0 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 Missing character: There is no 9 in font nullfont!
 
-Overfull \hbox (24.04428pt too wide) in paragraph at lines 136--140
+Overfull \hbox (24.04428pt too wide) in paragraph at lines 138--142
 \OT1/cmr/m/it/10 Anal-
  []
 
 
-Overfull \hbox (13.54434pt too wide) in paragraph at lines 136--140
+Overfull \hbox (13.54434pt too wide) in paragraph at lines 138--142
 \OT1/cmr/m/it/10 yse
  []
 
 
-Overfull \hbox (13.92767pt too wide) in paragraph at lines 136--140
+Overfull \hbox (13.92767pt too wide) in paragraph at lines 138--142
 \OT1/cmr/m/it/10 par
  []
 
 
-Overfull \hbox (14.31102pt too wide) in paragraph at lines 136--140
+Overfull \hbox (14.31102pt too wide) in paragraph at lines 138--142
 \OT1/cmr/m/it/10 on-
  []
 
 
-Overfull \hbox (32.19975pt too wide) in paragraph at lines 136--140
+Overfull \hbox (32.19975pt too wide) in paragraph at lines 138--142
 \OT1/cmr/m/it/10 delettes
  []
 
@@ -3099,7 +3123,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.140 \bibitem{AGraps}
+l.142 \bibitem{AGraps}
                       
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -3107,7 +3131,7 @@ If that doesn't work, type  X <return>  to quit.
 ! Undefined control sequence.
 <argument> \@listctr 
                      
-l.140 \bibitem{AGraps}
+l.142 \bibitem{AGraps}
                       
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3118,7 +3142,7 @@ and I'll forget about whatever was undefined.
 ! You can't use `\relax' after \the.
 <recently read> \c@ 
                     
-l.140 \bibitem{AGraps}
+l.142 \bibitem{AGraps}
                       
 I'm forgetting what you said and using zero instead.
 
@@ -3201,37 +3225,37 @@ Missing character: There is no 9 in font nullfont!
 Missing character: There is no 5 in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (12.79991pt too wide) in paragraph at lines 141--145
+Overfull \hbox (12.79991pt too wide) in paragraph at lines 143--147
 \OT1/cmr/m/it/10 An
  []
 
 
-Overfull \hbox (13.05547pt too wide) in paragraph at lines 141--145
+Overfull \hbox (13.05547pt too wide) in paragraph at lines 143--147
 \OT1/cmr/m/it/10 In-
  []
 
 
-Overfull \hbox (15.71652pt too wide) in paragraph at lines 141--145
+Overfull \hbox (15.71652pt too wide) in paragraph at lines 143--147
 \OT1/cmr/m/it/10 tro-
  []
 
 
-Overfull \hbox (18.65543pt too wide) in paragraph at lines 141--145
+Overfull \hbox (18.65543pt too wide) in paragraph at lines 143--147
 \OT1/cmr/m/it/10 duc-
  []
 
 
-Overfull \hbox (17.12212pt too wide) in paragraph at lines 141--145
+Overfull \hbox (17.12212pt too wide) in paragraph at lines 143--147
 \OT1/cmr/m/it/10 tion
  []
 
 
-Overfull \hbox (8.43327pt too wide) in paragraph at lines 141--145
+Overfull \hbox (8.43327pt too wide) in paragraph at lines 143--147
 \OT1/cmr/m/it/10 to
  []
 
 
-Overfull \hbox (38.8664pt too wide) in paragraph at lines 141--145
+Overfull \hbox (38.8664pt too wide) in paragraph at lines 143--147
 \OT1/cmr/m/it/10 Wavelets
  []
 
@@ -3242,7 +3266,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.145 \bibitem{Cchui}
+l.147 \bibitem{Cchui}
                      
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -3250,7 +3274,7 @@ If that doesn't work, type  X <return>  to quit.
 ! Undefined control sequence.
 <argument> \@listctr 
                      
-l.145 \bibitem{Cchui}
+l.147 \bibitem{Cchui}
                      
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3261,7 +3285,7 @@ and I'll forget about whatever was undefined.
 ! You can't use `\relax' after \the.
 <recently read> \c@ 
                     
-l.145 \bibitem{Cchui}
+l.147 \bibitem{Cchui}
                      
 I'm forgetting what you said and using zero instead.
 
@@ -3293,37 +3317,37 @@ Missing character: There is no 1 in font nullfont!
 Missing character: There is no 6 in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (12.79991pt too wide) in paragraph at lines 146--149
+Overfull \hbox (12.79991pt too wide) in paragraph at lines 148--151
 \OT1/cmr/m/it/10 An
  []
 
 
-Overfull \hbox (13.05547pt too wide) in paragraph at lines 146--149
+Overfull \hbox (13.05547pt too wide) in paragraph at lines 148--151
 \OT1/cmr/m/it/10 In-
  []
 
 
-Overfull \hbox (15.71652pt too wide) in paragraph at lines 146--149
+Overfull \hbox (15.71652pt too wide) in paragraph at lines 148--151
 \OT1/cmr/m/it/10 tro-
  []
 
 
-Overfull \hbox (18.65543pt too wide) in paragraph at lines 146--149
+Overfull \hbox (18.65543pt too wide) in paragraph at lines 148--151
 \OT1/cmr/m/it/10 duc-
  []
 
 
-Overfull \hbox (17.12212pt too wide) in paragraph at lines 146--149
+Overfull \hbox (17.12212pt too wide) in paragraph at lines 148--151
 \OT1/cmr/m/it/10 tion
  []
 
 
-Overfull \hbox (8.43327pt too wide) in paragraph at lines 146--149
+Overfull \hbox (8.43327pt too wide) in paragraph at lines 148--151
 \OT1/cmr/m/it/10 to
  []
 
 
-Overfull \hbox (39.68721pt too wide) in paragraph at lines 146--149
+Overfull \hbox (39.68721pt too wide) in paragraph at lines 148--151
 \OT1/cmr/m/it/10 Wavelets 
  []
 
@@ -3334,7 +3358,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.149 \bibitem{GRama}
+l.151 \bibitem{GRama}
                      
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -3342,7 +3366,7 @@ If that doesn't work, type  X <return>  to quit.
 ! Undefined control sequence.
 <argument> \@listctr 
                      
-l.149 \bibitem{GRama}
+l.151 \bibitem{GRama}
                      
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3353,7 +3377,7 @@ and I'll forget about whatever was undefined.
 ! You can't use `\relax' after \the.
 <recently read> \c@ 
                     
-l.149 \bibitem{GRama}
+l.151 \bibitem{GRama}
                      
 I'm forgetting what you said and using zero instead.
 
@@ -3422,102 +3446,102 @@ Missing character: There is no 0 in font nullfont!
 Missing character: There is no 1 in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (12.79991pt too wide) in paragraph at lines 150--152
+Overfull \hbox (12.79991pt too wide) in paragraph at lines 152--154
 \OT1/cmr/m/it/10 An
  []
 
 
-Overfull \hbox (12.26659pt too wide) in paragraph at lines 150--152
+Overfull \hbox (12.26659pt too wide) in paragraph at lines 152--154
 \OT1/cmr/m/it/10 in-
  []
 
 
-Overfull \hbox (15.71652pt too wide) in paragraph at lines 150--152
+Overfull \hbox (15.71652pt too wide) in paragraph at lines 152--154
 \OT1/cmr/m/it/10 tro-
  []
 
 
-Overfull \hbox (18.65543pt too wide) in paragraph at lines 150--152
+Overfull \hbox (18.65543pt too wide) in paragraph at lines 152--154
 \OT1/cmr/m/it/10 duc-
  []
 
 
-Overfull \hbox (17.12212pt too wide) in paragraph at lines 150--152
+Overfull \hbox (17.12212pt too wide) in paragraph at lines 152--154
 \OT1/cmr/m/it/10 tion
  []
 
 
-Overfull \hbox (8.43327pt too wide) in paragraph at lines 150--152
+Overfull \hbox (8.43327pt too wide) in paragraph at lines 152--154
 \OT1/cmr/m/it/10 to
  []
 
 
-Overfull \hbox (35.52197pt too wide) in paragraph at lines 150--152
+Overfull \hbox (35.52197pt too wide) in paragraph at lines 152--154
 \OT1/cmr/m/it/10 wavelets
  []
 
 
-Overfull \hbox (15.84436pt too wide) in paragraph at lines 150--152
+Overfull \hbox (15.84436pt too wide) in paragraph at lines 152--154
 \OT1/cmr/m/it/10 and
  []
 
 
-Overfull \hbox (22.36095pt too wide) in paragraph at lines 150--152
+Overfull \hbox (22.36095pt too wide) in paragraph at lines 152--154
 \OT1/cmr/m/it/10 other
  []
 
 
-Overfull \hbox (11.75548pt too wide) in paragraph at lines 150--152
+Overfull \hbox (11.75548pt too wide) in paragraph at lines 152--154
 \OT1/cmr/m/it/10 fil-
  []
 
 
-Overfull \hbox (15.71652pt too wide) in paragraph at lines 150--152
+Overfull \hbox (15.71652pt too wide) in paragraph at lines 152--154
 \OT1/cmr/m/it/10 ter-
  []
 
 
-Overfull \hbox (13.2888pt too wide) in paragraph at lines 150--152
+Overfull \hbox (13.2888pt too wide) in paragraph at lines 152--154
 \OT1/cmr/m/it/10 ing
  []
 
 
-Overfull \hbox (24.78871pt too wide) in paragraph at lines 150--152
+Overfull \hbox (24.78871pt too wide) in paragraph at lines 152--154
 \OT1/cmr/m/it/10 meth-
  []
 
 
-Overfull \hbox (13.79991pt too wide) in paragraph at lines 150--152
+Overfull \hbox (13.79991pt too wide) in paragraph at lines 152--154
 \OT1/cmr/m/it/10 ods
  []
 
 
-Overfull \hbox (8.68884pt too wide) in paragraph at lines 150--152
+Overfull \hbox (8.68884pt too wide) in paragraph at lines 152--154
 \OT1/cmr/m/it/10 in
  []
 
 
-Overfull \hbox (9.19994pt too wide) in paragraph at lines 150--152
+Overfull \hbox (9.19994pt too wide) in paragraph at lines 152--154
 \OT1/cmr/m/it/10 fi-
  []
 
 
-Overfull \hbox (25.04427pt too wide) in paragraph at lines 150--152
+Overfull \hbox (25.04427pt too wide) in paragraph at lines 152--154
 \OT1/cmr/m/it/10 nance
  []
 
 
-Overfull \hbox (15.84436pt too wide) in paragraph at lines 150--152
+Overfull \hbox (15.84436pt too wide) in paragraph at lines 152--154
 \OT1/cmr/m/it/10 and
  []
 
 
-Overfull \hbox (16.8665pt too wide) in paragraph at lines 150--152
+Overfull \hbox (16.8665pt too wide) in paragraph at lines 152--154
 \OT1/cmr/m/it/10 eco-
  []
 
 
-Overfull \hbox (31.4873pt too wide) in paragraph at lines 150--152
+Overfull \hbox (31.4873pt too wide) in paragraph at lines 152--154
 \OT1/cmr/m/it/10 nomics 
  []
 
@@ -3528,7 +3552,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.152 \bibitem{WojPrz}
+l.154 \bibitem{WojPrz}
                       
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -3536,7 +3560,7 @@ If that doesn't work, type  X <return>  to quit.
 ! Undefined control sequence.
 <argument> \@listctr 
                      
-l.152 \bibitem{WojPrz}
+l.154 \bibitem{WojPrz}
                       
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3547,7 +3571,7 @@ and I'll forget about whatever was undefined.
 ! You can't use `\relax' after \the.
 <recently read> \c@ 
                     
-l.152 \bibitem{WojPrz}
+l.154 \bibitem{WojPrz}
                       
 I'm forgetting what you said and using zero instead.
 
@@ -3606,62 +3630,62 @@ Missing character: There is no 9 in font nullfont!
 Missing character: There is no 7 in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (7.43329pt too wide) in paragraph at lines 153--156
+Overfull \hbox (7.43329pt too wide) in paragraph at lines 155--158
 \OT1/cmr/m/it/10 A
  []
 
 
-Overfull \hbox (25.29984pt too wide) in paragraph at lines 153--156
+Overfull \hbox (25.29984pt too wide) in paragraph at lines 155--158
 \OT1/cmr/m/it/10 math-
  []
 
 
-Overfull \hbox (8.1777pt too wide) in paragraph at lines 153--156
+Overfull \hbox (8.1777pt too wide) in paragraph at lines 155--158
 \OT1/cmr/m/it/10 e-
  []
 
 
-Overfull \hbox (20.18875pt too wide) in paragraph at lines 153--156
+Overfull \hbox (20.18875pt too wide) in paragraph at lines 155--158
 \OT1/cmr/m/it/10 mat-
  []
 
 
-Overfull \hbox (6.6444pt too wide) in paragraph at lines 153--156
+Overfull \hbox (6.6444pt too wide) in paragraph at lines 155--158
 \OT1/cmr/m/it/10 i-
  []
 
 
-Overfull \hbox (11.75546pt too wide) in paragraph at lines 153--156
+Overfull \hbox (11.75546pt too wide) in paragraph at lines 155--158
 \OT1/cmr/m/it/10 cal
  []
 
 
-Overfull \hbox (12.26659pt too wide) in paragraph at lines 153--156
+Overfull \hbox (12.26659pt too wide) in paragraph at lines 155--158
 \OT1/cmr/m/it/10 in-
  []
 
 
-Overfull \hbox (15.71652pt too wide) in paragraph at lines 153--156
+Overfull \hbox (15.71652pt too wide) in paragraph at lines 155--158
 \OT1/cmr/m/it/10 tro-
  []
 
 
-Overfull \hbox (18.65543pt too wide) in paragraph at lines 153--156
+Overfull \hbox (18.65543pt too wide) in paragraph at lines 155--158
 \OT1/cmr/m/it/10 duc-
  []
 
 
-Overfull \hbox (17.12212pt too wide) in paragraph at lines 153--156
+Overfull \hbox (17.12212pt too wide) in paragraph at lines 155--158
 \OT1/cmr/m/it/10 tion
  []
 
 
-Overfull \hbox (8.43327pt too wide) in paragraph at lines 153--156
+Overfull \hbox (8.43327pt too wide) in paragraph at lines 155--158
 \OT1/cmr/m/it/10 to
  []
 
 
-Overfull \hbox (38.58862pt too wide) in paragraph at lines 153--156
+Overfull \hbox (38.58862pt too wide) in paragraph at lines 155--158
 \OT1/cmr/m/it/10 wavelets.
  []
 
@@ -3672,7 +3696,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.156 \bibitem{GStrang}
+l.158 \bibitem{GStrang}
                        
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -3680,7 +3704,7 @@ If that doesn't work, type  X <return>  to quit.
 ! Undefined control sequence.
 <argument> \@listctr 
                      
-l.156 \bibitem{GStrang}
+l.158 \bibitem{GStrang}
                        
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3691,7 +3715,7 @@ and I'll forget about whatever was undefined.
 ! You can't use `\relax' after \the.
 <recently read> \c@ 
                     
-l.156 \bibitem{GStrang}
+l.158 \bibitem{GStrang}
                        
 I'm forgetting what you said and using zero instead.
 
@@ -3737,45 +3761,30 @@ Missing character: There is no 9 in font nullfont!
 Missing character: There is no 6 in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (38.8664pt too wide) in paragraph at lines 157--160
+Overfull \hbox (38.8664pt too wide) in paragraph at lines 159--162
 \OT1/cmr/m/it/10 Wavelets
  []
 
 
-Overfull \hbox (15.84436pt too wide) in paragraph at lines 157--160
+Overfull \hbox (15.84436pt too wide) in paragraph at lines 159--162
 \OT1/cmr/m/it/10 and
  []
 
 
-Overfull \hbox (11.75548pt too wide) in paragraph at lines 157--160
+Overfull \hbox (11.75548pt too wide) in paragraph at lines 159--162
 \OT1/cmr/m/it/10 fil-
  []
 
 
-Overfull \hbox (12.13878pt too wide) in paragraph at lines 157--160
+Overfull \hbox (12.13878pt too wide) in paragraph at lines 159--162
 \OT1/cmr/m/it/10 ter
  []
 
 
-Overfull \hbox (26.57759pt too wide) in paragraph at lines 157--160
+Overfull \hbox (26.57759pt too wide) in paragraph at lines 159--162
 \OT1/cmr/m/it/10 banks. 
  []
 
-
-! LaTeX Error: The font size command \normalsize is not defined:
-               there is probably something wrong with the class file.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.160 \bibitem{SMalla92}
-                        
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 
 ! LaTeX Error: Lonely \item--perhaps a missing list environment.
 
@@ -3783,7 +3792,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.160 \bibitem{SMalla92}
+l.162 \bibitem{SMalla92}
                         
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -3791,7 +3800,7 @@ If that doesn't work, type  X <return>  to quit.
 ! Undefined control sequence.
 <argument> \@listctr 
                      
-l.160 \bibitem{SMalla92}
+l.162 \bibitem{SMalla92}
                         
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3802,7 +3811,7 @@ and I'll forget about whatever was undefined.
 ! You can't use `\relax' after \the.
 <recently read> \c@ 
                     
-l.160 \bibitem{SMalla92}
+l.162 \bibitem{SMalla92}
                         
 I'm forgetting what you said and using zero instead.
 
@@ -3867,125 +3876,140 @@ Missing character: There is no 9 in font nullfont!
 Missing character: There is no 2 in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (17.88878pt too wide) in paragraph at lines 161--163
+Overfull \hbox (17.88878pt too wide) in paragraph at lines 163--165
 \OT1/cmr/m/it/10 Sin-
  []
 
 
-Overfull \hbox (13.54434pt too wide) in paragraph at lines 161--163
+Overfull \hbox (13.54434pt too wide) in paragraph at lines 163--165
 \OT1/cmr/m/it/10 gu-
  []
 
 
-Overfull \hbox (15.461pt too wide) in paragraph at lines 161--163
+Overfull \hbox (15.461pt too wide) in paragraph at lines 163--165
 \OT1/cmr/m/it/10 lar-
  []
 
 
-Overfull \hbox (11.24435pt too wide) in paragraph at lines 161--163
+Overfull \hbox (11.24435pt too wide) in paragraph at lines 163--165
 \OT1/cmr/m/it/10 ity
  []
 
 
-Overfull \hbox (13.28879pt too wide) in paragraph at lines 161--163
+Overfull \hbox (13.28879pt too wide) in paragraph at lines 163--165
 \OT1/cmr/m/it/10 de-
  []
 
 
-Overfull \hbox (15.58873pt too wide) in paragraph at lines 161--163
+Overfull \hbox (15.58873pt too wide) in paragraph at lines 163--165
 \OT1/cmr/m/it/10 tec-
  []
 
 
-Overfull \hbox (17.12212pt too wide) in paragraph at lines 161--163
+Overfull \hbox (17.12212pt too wide) in paragraph at lines 163--165
 \OT1/cmr/m/it/10 tion
  []
 
 
-Overfull \hbox (15.84436pt too wide) in paragraph at lines 161--163
+Overfull \hbox (15.84436pt too wide) in paragraph at lines 163--165
 \OT1/cmr/m/it/10 and
  []
 
 
-Overfull \hbox (17.50542pt too wide) in paragraph at lines 161--163
+Overfull \hbox (17.50542pt too wide) in paragraph at lines 163--165
 \OT1/cmr/m/it/10 pro-
  []
 
 
-Overfull \hbox (20.44427pt too wide) in paragraph at lines 161--163
+Overfull \hbox (20.44427pt too wide) in paragraph at lines 163--165
 \OT1/cmr/m/it/10 cess-
  []
 
 
-Overfull \hbox (13.2888pt too wide) in paragraph at lines 161--163
+Overfull \hbox (13.2888pt too wide) in paragraph at lines 163--165
 \OT1/cmr/m/it/10 ing
  []
 
 
-Overfull \hbox (18.14433pt too wide) in paragraph at lines 161--163
+Overfull \hbox (18.14433pt too wide) in paragraph at lines 163--165
 \OT1/cmr/m/it/10 with
  []
 
 
-Overfull \hbox (38.58862pt too wide) in paragraph at lines 161--163
+Overfull \hbox (38.58862pt too wide) in paragraph at lines 163--165
 \OT1/cmr/m/it/10 wavelets.
  []
 
 
-Overfull \hbox (24.20541pt too wide) in paragraph at lines 161--163
+Overfull \hbox (24.20541pt too wide) in paragraph at lines 163--165
 \OT1/cmr/m/it/10 IEEE
  []
 
 
-Overfull \hbox (25.42758pt too wide) in paragraph at lines 161--163
+Overfull \hbox (25.42758pt too wide) in paragraph at lines 163--165
 \OT1/cmr/m/it/10 trans-
  []
 
 
-Overfull \hbox (13.28879pt too wide) in paragraph at lines 161--163
+Overfull \hbox (13.28879pt too wide) in paragraph at lines 163--165
 \OT1/cmr/m/it/10 ac-
  []
 
 
-Overfull \hbox (21.21098pt too wide) in paragraph at lines 161--163
+Overfull \hbox (21.21098pt too wide) in paragraph at lines 163--165
 \OT1/cmr/m/it/10 tions
  []
 
 
-Overfull \hbox (10.73328pt too wide) in paragraph at lines 161--163
+Overfull \hbox (10.73328pt too wide) in paragraph at lines 163--165
 \OT1/cmr/m/it/10 on
  []
 
 
-Overfull \hbox (12.26659pt too wide) in paragraph at lines 161--163
+Overfull \hbox (12.26659pt too wide) in paragraph at lines 163--165
 \OT1/cmr/m/it/10 in-
  []
 
 
-Overfull \hbox (15.9721pt too wide) in paragraph at lines 161--163
+Overfull \hbox (15.9721pt too wide) in paragraph at lines 163--165
 \OT1/cmr/m/it/10 for-
  []
 
 
-Overfull \hbox (16.86656pt too wide) in paragraph at lines 161--163
+Overfull \hbox (16.86656pt too wide) in paragraph at lines 163--165
 \OT1/cmr/m/it/10 ma-
  []
 
 
-Overfull \hbox (17.12212pt too wide) in paragraph at lines 161--163
+Overfull \hbox (17.12212pt too wide) in paragraph at lines 163--165
 \OT1/cmr/m/it/10 tion
  []
 
 
-Overfull \hbox (16.61098pt too wide) in paragraph at lines 161--163
+Overfull \hbox (16.61098pt too wide) in paragraph at lines 163--165
 \OT1/cmr/m/it/10 the-
  []
 
 
-Overfull \hbox (14.18323pt too wide) in paragraph at lines 161--163
+Overfull \hbox (14.18323pt too wide) in paragraph at lines 163--165
 \OT1/cmr/m/it/10 ory
  []
 
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.165 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 
 ! LaTeX Error: Lonely \item--perhaps a missing list environment.
 
@@ -3993,7 +4017,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.164 \bibitem{GaoR}
+l.166 \bibitem{GaoR}
                     
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -4001,7 +4025,7 @@ If that doesn't work, type  X <return>  to quit.
 ! Undefined control sequence.
 <argument> \@listctr 
                      
-l.164 \bibitem{GaoR}
+l.166 \bibitem{GaoR}
                     
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -4012,7 +4036,7 @@ and I'll forget about whatever was undefined.
 ! You can't use `\relax' after \the.
 <recently read> \c@ 
                     
-l.164 \bibitem{GaoR}
+l.166 \bibitem{GaoR}
                     
 I'm forgetting what you said and using zero instead.
 
@@ -4069,72 +4093,72 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (41.93304pt too wide) in paragraph at lines 165--169
+Overfull \hbox (41.93304pt too wide) in paragraph at lines 167--171
 \OT1/cmr/m/it/10 Wavelets:
  []
 
 
-Overfull \hbox (20.44429pt too wide) in paragraph at lines 165--169
+Overfull \hbox (20.44429pt too wide) in paragraph at lines 167--171
 \OT1/cmr/m/it/10 The-
  []
 
 
-Overfull \hbox (14.18323pt too wide) in paragraph at lines 165--169
+Overfull \hbox (14.18323pt too wide) in paragraph at lines 167--171
 \OT1/cmr/m/it/10 ory
  []
 
 
-Overfull \hbox (15.84436pt too wide) in paragraph at lines 165--169
+Overfull \hbox (15.84436pt too wide) in paragraph at lines 167--171
 \OT1/cmr/m/it/10 and
  []
 
 
-Overfull \hbox (13.79991pt too wide) in paragraph at lines 165--169
+Overfull \hbox (13.79991pt too wide) in paragraph at lines 167--171
 \OT1/cmr/m/it/10 ap-
  []
 
 
-Overfull \hbox (14.31102pt too wide) in paragraph at lines 165--169
+Overfull \hbox (14.31102pt too wide) in paragraph at lines 167--171
 \OT1/cmr/m/it/10 pli-
  []
 
 
-Overfull \hbox (12.77766pt too wide) in paragraph at lines 165--169
+Overfull \hbox (12.77766pt too wide) in paragraph at lines 167--171
 \OT1/cmr/m/it/10 ca-
  []
 
 
-Overfull \hbox (21.21098pt too wide) in paragraph at lines 165--169
+Overfull \hbox (21.21098pt too wide) in paragraph at lines 167--171
 \OT1/cmr/m/it/10 tions
  []
 
 
-Overfull \hbox (12.39436pt too wide) in paragraph at lines 165--169
+Overfull \hbox (12.39436pt too wide) in paragraph at lines 167--171
 \OT1/cmr/m/it/10 for
  []
 
 
-Overfull \hbox (22.48875pt too wide) in paragraph at lines 165--169
+Overfull \hbox (22.48875pt too wide) in paragraph at lines 167--171
 \OT1/cmr/m/it/10 man-
  []
 
 
-Overfull \hbox (8.94438pt too wide) in paragraph at lines 165--169
+Overfull \hbox (8.94438pt too wide) in paragraph at lines 167--171
 \OT1/cmr/m/it/10 u-
  []
 
 
-Overfull \hbox (16.35544pt too wide) in paragraph at lines 165--169
+Overfull \hbox (16.35544pt too wide) in paragraph at lines 167--171
 \OT1/cmr/m/it/10 fac-
  []
 
 
-Overfull \hbox (16.4832pt too wide) in paragraph at lines 165--169
+Overfull \hbox (16.4832pt too wide) in paragraph at lines 167--171
 \OT1/cmr/m/it/10 tur-
  []
 
 
-Overfull \hbox (16.35545pt too wide) in paragraph at lines 165--169
+Overfull \hbox (16.35545pt too wide) in paragraph at lines 167--171
 \OT1/cmr/m/it/10 ing.
  []
 
@@ -4145,7 +4169,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.169 \bibitem{Guler}
+l.171 \bibitem{Guler}
                      
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -4153,7 +4177,7 @@ If that doesn't work, type  X <return>  to quit.
 ! Undefined control sequence.
 <argument> \@listctr 
                      
-l.169 \bibitem{Guler}
+l.171 \bibitem{Guler}
                      
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -4164,7 +4188,7 @@ and I'll forget about whatever was undefined.
 ! You can't use `\relax' after \the.
 <recently read> \c@ 
                     
-l.169 \bibitem{Guler}
+l.171 \bibitem{Guler}
                      
 I'm forgetting what you said and using zero instead.
 
@@ -4243,77 +4267,77 @@ Missing character: There is no 0 in font nullfont!
 Missing character: There is no 8 in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (21.67487pt too wide) in paragraph at lines 170--173
+Overfull \hbox (21.67487pt too wide) in paragraph at lines 172--175
 \OT1/cmr/m/it/10 ECG
  []
 
 
-Overfull \hbox (16.61095pt too wide) in paragraph at lines 170--173
+Overfull \hbox (16.61095pt too wide) in paragraph at lines 172--175
 \OT1/cmr/m/it/10 beat
  []
 
 
-Overfull \hbox (19.9332pt too wide) in paragraph at lines 170--173
+Overfull \hbox (19.9332pt too wide) in paragraph at lines 172--175
 \OT1/cmr/m/it/10 clas-
  []
 
 
-Overfull \hbox (10.73326pt too wide) in paragraph at lines 170--173
+Overfull \hbox (10.73326pt too wide) in paragraph at lines 172--175
 \OT1/cmr/m/it/10 si-
  []
 
 
-Overfull \hbox (14.43878pt too wide) in paragraph at lines 170--173
+Overfull \hbox (14.43878pt too wide) in paragraph at lines 172--175
 \OT1/cmr/m/it/10 fier
  []
 
 
-Overfull \hbox (13.28879pt too wide) in paragraph at lines 170--173
+Overfull \hbox (13.28879pt too wide) in paragraph at lines 172--175
 \OT1/cmr/m/it/10 de-
  []
 
 
-Overfull \hbox (26.57759pt too wide) in paragraph at lines 170--173
+Overfull \hbox (26.57759pt too wide) in paragraph at lines 172--175
 \OT1/cmr/m/it/10 signed
  []
 
 
-Overfull \hbox (9.45547pt too wide) in paragraph at lines 170--173
+Overfull \hbox (9.45547pt too wide) in paragraph at lines 172--175
 \OT1/cmr/m/it/10 by
  []
 
 
-Overfull \hbox (20.9554pt too wide) in paragraph at lines 170--173
+Overfull \hbox (20.9554pt too wide) in paragraph at lines 172--175
 \OT1/cmr/m/it/10 com-
  []
 
 
-Overfull \hbox (22.48872pt too wide) in paragraph at lines 170--173
+Overfull \hbox (22.48872pt too wide) in paragraph at lines 172--175
 \OT1/cmr/m/it/10 bined
  []
 
 
-Overfull \hbox (19.16653pt too wide) in paragraph at lines 170--173
+Overfull \hbox (19.16653pt too wide) in paragraph at lines 172--175
 \OT1/cmr/m/it/10 neu-
  []
 
 
-Overfull \hbox (11.37213pt too wide) in paragraph at lines 170--173
+Overfull \hbox (11.37213pt too wide) in paragraph at lines 172--175
 \OT1/cmr/m/it/10 ral
  []
 
 
-Overfull \hbox (17.12209pt too wide) in paragraph at lines 170--173
+Overfull \hbox (17.12209pt too wide) in paragraph at lines 172--175
 \OT1/cmr/m/it/10 net-
  []
 
 
-Overfull \hbox (20.57208pt too wide) in paragraph at lines 170--173
+Overfull \hbox (20.57208pt too wide) in paragraph at lines 172--175
 \OT1/cmr/m/it/10 work
  []
 
 
-Overfull \hbox (28.11093pt too wide) in paragraph at lines 170--173
+Overfull \hbox (28.11093pt too wide) in paragraph at lines 172--175
 \OT1/cmr/m/it/10 model.
  []
 
@@ -4324,7 +4348,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.173 \bibitem{INCE}
+l.175 \bibitem{INCE}
                     
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -4332,7 +4356,7 @@ If that doesn't work, type  X <return>  to quit.
 ! Undefined control sequence.
 <argument> \@listctr 
                      
-l.173 \bibitem{INCE}
+l.175 \bibitem{INCE}
                     
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -4343,7 +4367,7 @@ and I'll forget about whatever was undefined.
 ! You can't use `\relax' after \the.
 <recently read> \c@ 
                     
-l.173 \bibitem{INCE}
+l.175 \bibitem{INCE}
                     
 I'm forgetting what you said and using zero instead.
 
@@ -4462,112 +4486,112 @@ Missing character: There is no 2 in font nullfont!
 Missing character: There is no 6 in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (7.43329pt too wide) in paragraph at lines 174--176
+Overfull \hbox (7.43329pt too wide) in paragraph at lines 176--178
 \OT1/cmr/m/it/10 A
  []
 
 
-Overfull \hbox (31.30531pt too wide) in paragraph at lines 174--176
+Overfull \hbox (31.30531pt too wide) in paragraph at lines 176--178
 \OT1/cmr/m/it/10 generic
  []
 
 
-Overfull \hbox (15.84436pt too wide) in paragraph at lines 174--176
+Overfull \hbox (15.84436pt too wide) in paragraph at lines 176--178
 \OT1/cmr/m/it/10 and
  []
 
 
-Overfull \hbox (12.39433pt too wide) in paragraph at lines 174--176
+Overfull \hbox (12.39433pt too wide) in paragraph at lines 176--178
 \OT1/cmr/m/it/10 ro-
  []
 
 
-Overfull \hbox (17.37766pt too wide) in paragraph at lines 174--176
+Overfull \hbox (17.37766pt too wide) in paragraph at lines 176--178
 \OT1/cmr/m/it/10 bust
  []
 
 
-Overfull \hbox (16.611pt too wide) in paragraph at lines 174--176
+Overfull \hbox (16.611pt too wide) in paragraph at lines 176--178
 \OT1/cmr/m/it/10 sys-
  []
 
 
-Overfull \hbox (16.09988pt too wide) in paragraph at lines 174--176
+Overfull \hbox (16.09988pt too wide) in paragraph at lines 176--178
 \OT1/cmr/m/it/10 tem
  []
 
 
-Overfull \hbox (12.39436pt too wide) in paragraph at lines 174--176
+Overfull \hbox (12.39436pt too wide) in paragraph at lines 176--178
 \OT1/cmr/m/it/10 for
  []
 
 
-Overfull \hbox (14.05547pt too wide) in paragraph at lines 174--176
+Overfull \hbox (14.05547pt too wide) in paragraph at lines 176--178
 \OT1/cmr/m/it/10 au-
  []
 
 
-Overfull \hbox (12.01102pt too wide) in paragraph at lines 174--176
+Overfull \hbox (12.01102pt too wide) in paragraph at lines 176--178
 \OT1/cmr/m/it/10 to-
  []
 
 
-Overfull \hbox (25.81093pt too wide) in paragraph at lines 174--176
+Overfull \hbox (25.81093pt too wide) in paragraph at lines 176--178
 \OT1/cmr/m/it/10 mated
  []
 
 
-Overfull \hbox (33.22197pt too wide) in paragraph at lines 174--176
+Overfull \hbox (33.22197pt too wide) in paragraph at lines 176--178
 \OT1/cmr/m/it/10 patient-
  []
 
 
-Overfull \hbox (30.66643pt too wide) in paragraph at lines 174--176
+Overfull \hbox (30.66643pt too wide) in paragraph at lines 176--178
 \OT1/cmr/m/it/10 specific
  []
 
 
-Overfull \hbox (19.9332pt too wide) in paragraph at lines 174--176
+Overfull \hbox (19.9332pt too wide) in paragraph at lines 176--178
 \OT1/cmr/m/it/10 clas-
  []
 
 
-Overfull \hbox (10.73326pt too wide) in paragraph at lines 174--176
+Overfull \hbox (10.73326pt too wide) in paragraph at lines 176--178
 \OT1/cmr/m/it/10 si-
  []
 
 
-Overfull \hbox (9.19994pt too wide) in paragraph at lines 174--176
+Overfull \hbox (9.19994pt too wide) in paragraph at lines 176--178
 \OT1/cmr/m/it/10 fi-
  []
 
 
-Overfull \hbox (12.77766pt too wide) in paragraph at lines 174--176
+Overfull \hbox (12.77766pt too wide) in paragraph at lines 176--178
 \OT1/cmr/m/it/10 ca-
  []
 
 
-Overfull \hbox (17.12212pt too wide) in paragraph at lines 174--176
+Overfull \hbox (17.12212pt too wide) in paragraph at lines 176--178
 \OT1/cmr/m/it/10 tion
  []
 
 
-Overfull \hbox (8.17773pt too wide) in paragraph at lines 174--176
+Overfull \hbox (8.17773pt too wide) in paragraph at lines 176--178
 \OT1/cmr/m/it/10 of
  []
 
 
-Overfull \hbox (21.67487pt too wide) in paragraph at lines 174--176
+Overfull \hbox (21.67487pt too wide) in paragraph at lines 176--178
 \OT1/cmr/m/it/10 ECG
  []
 
 
-Overfull \hbox (15.33322pt too wide) in paragraph at lines 174--176
+Overfull \hbox (15.33322pt too wide) in paragraph at lines 176--178
 \OT1/cmr/m/it/10 sig-
  []
 
 
-Overfull \hbox (20.44434pt too wide) in paragraph at lines 174--176
+Overfull \hbox (20.44434pt too wide) in paragraph at lines 176--178
 \OT1/cmr/m/it/10 nals.
  []
 
@@ -4578,7 +4602,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.177 \end{thebibliography}
+l.179 \end{thebibliography}
                            
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -4598,5 +4622,5 @@ Here is how much of TeX's memory you used:
  3591 multiletter control sequences out of 15000+600000
  4294 words of font info for 16 fonts, out of 8000000 for 9000
  286 hyphenation exceptions out of 8191
- 20i,7n,26p,218b,134s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 20i,7n,26p,215b,134s stack positions out of 5000i,500n,10000p,200000b,80000s
 !  ==> Fatal error occurred, no output PDF file produced!

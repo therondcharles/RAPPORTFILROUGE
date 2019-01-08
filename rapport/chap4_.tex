@@ -75,7 +75,7 @@ W_{f}(x,s) = f * \psi^{*}_{s}(x)
 \subsection{Decomposition}
 La fonction que l'on souhaite décomposer est réalisée de la façon suivante :
 \begin{equation}
-f(x)= \sum^{2j0-1}_{k=0} 
+f(x)= \sum^{2j0-1}_{k=0} \alpha_{0,k}\phi_{j0,k} +\sum \sum^{2j0-1}_{k=0}\beta_{j,k}\psi_{j,k}
 \end{equation}
 %\alpha_{0,k}\phi_{j0,k} +\sum \sum^{2j0-1}_{k=0}\beta_{j,k}\psi_{j,k}
 \begin{equation}
@@ -121,6 +121,7 @@ Pour une ondelette de Haar (ou Daubechie) , elles sont de la forme
 
 
 \paragraph{}
+Débruitage par seuillage
 \subsection{Détection d'anomalie à l'aide des coefficients dans la base en ondelettes}
 Pour détecter les anomalies, on se concentrera sur la projection des données sur la base formée des coefficients d'ondelettes.
 \section{Résultat}
