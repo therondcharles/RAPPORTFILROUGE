@@ -1,0 +1,19 @@
+\chapter{Notre approche méthodologique}
+
+Suite à notre recherche bibliographique, nous avons opté pour le processus de travail suivant :
+
+\begin{itemize}
+\item \textbf{Préparer les données} : dans un premier temps nous devons mettre en forme les données brutes mises à notre disposition pour pouvoir les exploiter. Il s'agit d'une part de traiter les doublons, les données manquantes et les valeurs aberrantes, mais également dans notre cas de recaler les pas de temps des données de natures différentes. En effet, si nous disposons de mesures électriques au pas de temps minute, il n'en est pas de même pour les mesures de la pluviométrie, de l'hygrométrie ou de la température qui suivent des cadences de l'heure ou de la demi-heure.
+\item \textbf{Explorer les données} : avec les données exploitables, nous nous consacrerons ensuite à leur exploration visuelle et statistique pour mieux en comprendre les profils. Il s'agit par exemple d'évaluer la stationnarité des séries temporelles, d'identifier des phénomènes récurrents, et aussi d'évaluer les modèles de prédiction fournis par Engie.
+\item \textbf{Décomposer le signal} : nous mettrons ensuite en oeuvre certaines des méthodes les plus pertinentes que nous avons identifiées afin de décomposer le signal ou d'en séparer les sources pour en extraire des caractéristiques exploitables. La difficulté majeure concernera le choix du pas de temps et le niveau de décomposition optimal pour s'adapter aux différents de perturbations. Nous prévoyons notamment de tester les méthodes suivantes :
+
+\begin{itemize}
+\item Décomposition par ondelettes
+\item Décomposition par méthode adaptative EMD ou LMD
+\item Séparation de source NMF
+\end{itemize}
+\item \textbf{Identifier les signatures particulières} : cette étape consistera à exploiter les caractéristiques extraites du signal via des algorithmes d'apprentissage statistiques de type "Clustering" ou réseaux de neurones pour identifier des signatures particulières : phénomènes météorologiques, dysfonctionnements, environnement géographique, maintenance, usure, etc.
+\item \textbf{Rechercher les similarités} : il s'agit ensuite de voir dans quelle mesure on peut retrouver les signatures particulières dans nos données, à l'aide d'outils de type Functional boxplot \cite{FboxPlot} ou Range query, par exemple. Ce travail sera à effectuer sur chacun des onduleurs ainsi qu'en approche globale, sur plusieurs périodes.
+\item \textbf{Répertorier les anomalies} : le travail précédent devrait nous permettre de définir un catalogue de perturbations, parmi lesquelles des anomalies avérées.
+\item \textbf{Valider la classification} : la dernière partie du projet consistera à valider notre approche sur de nouvelles données, par exemple issues d'autres fermes solaires, dans une optique d'automatisation de la détection.
+\end{itemize}

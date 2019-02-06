@@ -24,17 +24,28 @@
 %% If you want blank pages before new chapters to be labelled ``This
 %% Page Intentionally Left Blank'', use the ``leftblank'' option, as
 %% above. 
-\documentclass[12pt,twoside]{mitthesis}
+\documentclass[12pt,oneside]{mitthesis}
 \usepackage{lgrind}
 \usepackage[utf8]{inputenc}
+\usepackage[francais]{babel}
 \usepackage{amssymb}
 %% These have been added at the request of the MIT Libraries, because
 %% some PDF conversions mess up the ligatures.  -LB, 1/22/2014
 \usepackage{cmap}
 \usepackage{amsmath}
+\usepackage{hyperref}
+\usepackage{incgraph,tikz}
+\usepackage{graphicx}
+\usepackage{placeins}
 \usepackage[T1]{fontenc}
 \pagestyle{plain}
 \usepackage[hypcap]{caption}
+\usepackage{ulem}
+\usepackage{gensymb}
+\usepackage{siunitx}
+\usepackage{lmodern}
+\usepackage[table,xcdraw]{xcolor}
+\usepackage[table, dvipsnames]{xcolor}
 \newcommand{\R}{\mathbb{R}}
 %% This bit allows you to either specify only the files which you wish to
 %% process, or `all' to process all files which you \include.
@@ -45,29 +56,39 @@
 %\ifx\files\all \typeout{Including all files.} \else \typeout{Including only \files.} \includeonly{\files} \fi
 
 \begin{document}
+\incgraph[documentpaper,
+  overlay={\node[red] at (page.center) {};}]
+  [width=\paperwidth]{images/pagedegarde.jpg}
 \pagestyle{plain}
 
 
 %\include{propcover}
-\include{contents}
+\tableofcontents
 % Some departments (e.g. 5) require an additional signature page.  See
 % signature.tex for more information and uncomment the following line if
 % applicable.
 % \include{signature}
 %\include{propcover}
+
 \pagestyle{plain}
 
 \include{contents}
+\include{chap0}
 \include{chap1}
 \include{chap2}
 
-\include{chap3_}
-\include{chap4_}
-
-%\include{chap5}
-%\include{chap6}
+\include{Chap3_bib}
+%\include{chap4_}
+\include{chap4bis}
+\include{chap5}
+\include{chap6}
+\include{chap7}
+\include{chap8}
+\include{chap9}
+\include{chap10}
 \appendix
 \include{appa}
 \include{appb}
 
 \end{document}
+

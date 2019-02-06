@@ -273,7 +273,7 @@
 	\@chapapp\ \thechapter. \ \fi ##1}}{}}
     \def\sectionmark##1{\markright {\uppercase{\ifnum \c@secnumdepth >\z@
 	\thesection. \ \fi ##1}}}
-    \pulldownheader				% Bring header down from edge
+    %\pulldownheader				% Bring header down from edge
     \pullupfooter				% Bring footer up
 }
 \else               % If one-sided printing.
@@ -283,7 +283,7 @@
     \def\@oddhead{\hbox{}\sl \rightmark \hfil \rm\thepage}
     \def\chaptermark##1{\markright {\uppercase{\ifnum \c@secnumdepth >\m@ne
 	\@chapapp\ \thechapter. \ \fi ##1}}}
-    \pulldownheader				% Bring header down from edge
+   % \pulldownheader				% Bring header down from edge
     \pullupfooter				% Bring footer up
 }
 \fi
@@ -304,7 +304,7 @@
 	\@chapapp\ \thechapter. \ \fi ##1}}{}}	
     \def\sectionmark##1{\markright {\uppercase{\ifnum \c@secnumdepth >\z@
 	\thesection. \ \fi ##1}}}
-    \pulldownheader				% Bring header down from edge
+    %\pulldownheader				% Bring header down from edge
 }
 \else						% If one-sided printing.
 \def\ps@headings{\let\@mkboth\markboth
@@ -313,7 +313,7 @@
     \def\@oddhead{\hbox {}\sl \rightmark \hfil \rm\thepage}	% Heading.
     \def\chaptermark##1{\markright {\uppercase{\ifnum \c@secnumdepth >\m@ne
 	\@chapapp\ \thechapter. \ \fi ##1}}}
-    \pulldownheader				% Bring header down from edge
+    %\pulldownheader				% Bring header down from edge
 }
 \fi
 
@@ -326,7 +326,7 @@
     \def\subsectionmark##1{}
     \def\@evenhead{\rm \thepage\hfil\sl\leftmark\hbox {}}	%
     \def\@oddhead{\hbox{}\sl\rightmark \hfil \rm\thepage}	%
-    \pulldownheader				% Bring header down from edge
+    %\pulldownheader				% Bring header down from edge
 }						
 
 % Redefine '/chapter' to always start on an odd page.
